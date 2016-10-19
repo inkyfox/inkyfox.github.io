@@ -1,0 +1,10 @@
+# Site settings
+title: Yongha Yoo
+tag_text: Yongha Yoo
+description:  About Yongha Yoo
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
