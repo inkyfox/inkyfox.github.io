@@ -4,7 +4,7 @@ layout: default
 
 *- inkyfox*
 
-My personal project until 2016
+My personal projects until 2016
 
 ## iOS 
 
