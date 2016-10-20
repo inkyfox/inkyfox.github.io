@@ -82,3 +82,5 @@ Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanatio
 * [LinkedIn](https://kr.linkedin.com/in/yoyoo)
 * [@inkyfox](https://twitter.com/inkyfox)
 
+![Yongha Yoo](https://www.gravatar.com/avatar/0854d69696c5bde9acc145b0271e58dd.jpg?s=200)
+
