@@ -66,7 +66,7 @@ ImageView enabled the foreground especially for a hover effect, which also suppo
 ### Swift Performance (Speaker)
 Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanation of [WWDC 2016: Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/).
 
-   <iframe src="//www.slideshare.net/slideshow/embed_code/key/ElCvHgMdWOdZ1N" width="80%" height="240px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+   <iframe src="//www.slideshare.net/slideshow/embed_code/key/ElCvHgMdWOdZ1N" width="80%" height="75vw" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 * [Slideshare](http://www.slideshare.net/YongHaYoo/ss-63881606): Over 6,000 views
 * [Realm blog](https://realm.io/kr/news/letswift-swift-performance/): Summary and video by [Realm](https://realm.io/)
