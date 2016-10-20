@@ -47,6 +47,8 @@ Slide-up UIScrollView/UITableView that can be Scrolled Continuously after reache
 A currency converter iOS app for ReactiveX (RxSwift) example
 
 * [GitHub](https://github.com/inkyfox/RxCurrency_iOS)
+  <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=RxCurrency_iOS&amp;type=watch&amp;count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
 * [Traveler's Currency](https://itunes.apple.com/app/travelers-currency/id1159387659?mt=8) on App Store
 
 ## Android
@@ -63,8 +65,9 @@ ImageView enabled the foreground especially for a hover effect, which also suppo
 ### Swift Performance (Speaker)
 Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanation of [WWDC 2016: Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/).
 
-   <iframe src="//www.slideshare.net/slideshow/embed_code/key/ElCvHgMdWOdZ1N" width="80%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YongHaYoo/ss-63881606" title="스위프트 성능 이해하기" target="_blank">Understanding Swift Performance (Korean)</a> </strong> from <strong><a href="//www.slideshare.net/YongHaYoo" target="_blank">Yongha Yoo</a></strong> </div>
+   <iframe src="//www.slideshare.net/slideshow/embed_code/key/ElCvHgMdWOdZ1N" width="80%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
+* [Slideshare](http://www.slideshare.net/YongHaYoo/ss-63881606): Over 6,000 views
 * [Realm blog](https://realm.io/kr/news/letswift-swift-performance/): Summary and video by [Realm](https://realm.io/)
 * [Naver D2 blog](http://d2.naver.com/news/8290319): All slides of this conference
 

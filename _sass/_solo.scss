@@ -150,3 +150,8 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+ul li img, ul li iframe {
+  vertical-align: middle;
+  padding-bottom: 0.2rem;
+}
