@@ -59,6 +59,7 @@ ImageView enabled the foreground especially for a hover effect, which also suppo
 * [GitHub](https://github.com/inkyfox/RippleVisibleImageView)
   <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=RippleVisibleImageView&amp;type=watch&amp;count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
+* [JitPack](https://jitpack.io/#inkyfox/RippleVisibleImageView) [![Release](https://jitpack.io/v/inkyfox/RippleVisibleImageView.svg)](https://jitpack.io/#inkyfox/RippleVisibleImageView)
 
 ## Slides
 
@@ -80,5 +81,4 @@ Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanatio
 * [GitHub](https://github.com/inkyfox)
 * [LinkedIn](https://kr.linkedin.com/in/yoyoo)
 * [@inkyfox](https://twitter.com/inkyfox)
-
 
