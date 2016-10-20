@@ -4,7 +4,7 @@ layout: default
 
 *- inkyfox*
 
-My personal projects until 2016
+My personal projects ~>2016
 
 ## iOS 
 
@@ -72,7 +72,7 @@ Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanatio
 * [Realm blog](https://realm.io/kr/news/letswift-swift-performance/): Summary and video by [Realm](https://realm.io/)
 * [Naver D2 blog](http://d2.naver.com/news/8290319): All slides of this conference
 
-## Organization
+## Organizations
 
 * [<img src="https://avatars3.githubusercontent.com/u/15903991?v=3&s=25">](https://github.com/RxSwiftCommunity) [RxSwiftCommunity](https://github.com/RxSwiftCommunity)
 
