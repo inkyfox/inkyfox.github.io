@@ -15,7 +15,7 @@ RxSwift reactive wrapper for GoogleMaps SDK
   <iframe src="https://ghbtns.com/github-btn.html?user=RxSwiftCommunity&amp;repo=RxGoogleMaps&amp;type=watch&amp;count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
   Hosted by RxSwiftCommunity
-* [CocoaPods](https://cocoapods.org/pods/RxGoogleMaps): [![CocoaPods](https://img.shields.io/cocoapods/dt/RxGoogleMaps.svg)](https://cocoapods.org/pods/RxGoogleMaps)
+* [CocoaPods](https://cocoapods.org/pods/RxGoogleMaps) [![CocoaPods](https://img.shields.io/cocoapods/dt/RxGoogleMaps.svg)](https://cocoapods.org/pods/RxGoogleMaps)
 
 ### RxMapKit (Author)
 RxSwift reactive wrapper for MapKit
@@ -23,7 +23,7 @@ RxSwift reactive wrapper for MapKit
 * [GitHub](https://github.com/inkyfox/RxMapKit)
   <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=RxMapKit&amp;type=watch&amp;count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
-* [CocoaPods](https://cocoapods.org/pods/RxMapKit): [![CocoaPods](https://img.shields.io/cocoapods/dt/RxMapKit.svg)](https://cocoapods.org/pods/RxMapKit)
+* [CocoaPods](https://cocoapods.org/pods/RxMapKit) [![CocoaPods](https://img.shields.io/cocoapods/dt/RxMapKit.svg)](https://cocoapods.org/pods/RxMapKit)
 
 ### KRWordWrapLabel (Author)
 UILabel subclass which provides Word Wrap based on white spaces not depending on languages
@@ -31,7 +31,7 @@ UILabel subclass which provides Word Wrap based on white spaces not depending on
 * [GitHub](https://github.com/inkyfox/KRWordWrapLabel)
   <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=KRWordWrapLabel&amp;type=watch&amp;count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
-* [CocoaPods](https://cocoapods.org/pods/KRWordWrapLabel): [![CocoaPods](https://img.shields.io/cocoapods/dt/KRWordWrapLabel.svg)](https://cocoapods.org/pods/KRWordWrapLabel)
+* [CocoaPods](https://cocoapods.org/pods/KRWordWrapLabel) [![CocoaPods](https://img.shields.io/cocoapods/dt/KRWordWrapLabel.svg)](https://cocoapods.org/pods/KRWordWrapLabel)
 * [CocoaControls](https://www.cocoacontrols.com/controls/krwordwraplabel)
 
 ### SeamlessSlideUpScrollView (Author)
@@ -40,7 +40,7 @@ Slide-up UIScrollView/UITableView that can be Scrolled Continuously after reache
 * [GitHub](https://github.com/inkyfox/SeamlessSlideUpScrollView)
   <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=SeamlessSlideUpScrollView&amp;type=watch&amp;count=true"
   allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
-* [CocoaPods](https://cocoapods.org/pods/SeamlessSlideUpScrollView): [![CocoaPods](https://img.shields.io/cocoapods/dt/SeamlessSlideUpScrollView.svg)](https://cocoapods.org/pods/SeamlessSlideUpScrollView)
+* [CocoaPods](https://cocoapods.org/pods/SeamlessSlideUpScrollView) [![CocoaPods](https://img.shields.io/cocoapods/dt/SeamlessSlideUpScrollView.svg)](https://cocoapods.org/pods/SeamlessSlideUpScrollView)
 * [CocoaControls](https://www.cocoacontrols.com/controls/seamlessslideupscrollview)
 
 ### RxCurrency (Author)
@@ -55,6 +55,8 @@ A currency converter iOS app for ReactiveX (RxSwift) example
 ImageView enabled the foreground especially for a hover effect, which also supports RippleDrawable from API21
 
 * [GitHub](https://github.com/inkyfox/RippleVisibleImageView)
+  <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=RippleVisibleImageView&amp;type=watch&amp;count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
 
 ## Slides
 
