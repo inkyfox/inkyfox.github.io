@@ -8,6 +8,14 @@ My personal projects ~>2016
 
 ## iOS 
 
+### SwiftySQL (Author)
+Easy and safe way to write SQL in Swift
+
+* [GitHub](https://github.com/inkyfox/SwiftySQL)
+  <iframe src="https://ghbtns.com/github-btn.html?user=inkyfox&amp;repo=SwiftySQL&amp;type=watch&amp;count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="20px" valigh="center"></iframe>
+* [CocoaPods](https://cocoapods.org/pods/SwiftySQL) [![CocoaPods](https://img.shields.io/cocoapods/dt/SwiftySQL.svg)](https://cocoapods.org/pods/SwiftySQL)
+
 ### RxGoogleMaps (Author)
 RxSwift reactive wrapper for GoogleMaps SDK
 
