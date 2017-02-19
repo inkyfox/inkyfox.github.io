@@ -76,7 +76,7 @@ Slide from [LetSwift Korea](http://www.letswift.kr/2016/) conference. Explanatio
 
    <div class="slide_box"><iframe class="slide_content" src="//www.slideshare.net/slideshow/embed_code/key/ElCvHgMdWOdZ1N" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:0px;" allowfullscreen> </iframe> </div><br>
 
-* [Slideshare](http://www.slideshare.net/YongHaYoo/ss-63881606): Over 6,000 views
+* [Slideshare](http://www.slideshare.net/YongHaYoo/ss-63881606): Over 8,000 views
 * [Realm blog](https://realm.io/kr/news/letswift-swift-performance/): Summary and video by [Realm](https://realm.io/)
 * [Naver D2 blog](http://d2.naver.com/news/8290319): All slides of this conference
 
